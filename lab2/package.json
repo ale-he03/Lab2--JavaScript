@@ -1,0 +1,18 @@
+{
+  "type":"module",
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "lab2 java script, modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "lab2",
+    "ES",
+    "Module"
+  ],
+  "author": "Aleja",
+  "license": "ISC"
+}
